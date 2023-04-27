@@ -194,6 +194,7 @@
   position: absolute;
   margin-top:5px;
   margin-left: 10px;
+  font-size: 15px;
  
 }
 /*DIV FOR THE TIME OF PLAYING(0:00)*/
@@ -202,4 +203,6 @@
   position: absolute;
   margin-right: 10px;
   margin-top: 6px;
+  font-size: 13px;
+  font-family: 'Rubik';
 }
